@@ -1,0 +1,2 @@
+Algoritmo moritebro
+escribir "fuck"
